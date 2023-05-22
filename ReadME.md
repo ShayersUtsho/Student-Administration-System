@@ -1,0 +1,1 @@
+This is a student administration project I made as my final project during my undergrad studies at the department of CSE in Shanto-Mariam University of Creative Technology.
